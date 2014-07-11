@@ -1,0 +1,19 @@
+Source: plasma-workspace-wallpapers
+Section: kde
+Priority: extra
+Maintainer: Kubuntu Developers <kubuntu-devel@ubuntu.com>
+Build-Depends: cmake,
+               debhelper (>= 9),
+               extra-cmake-modules,
+               pkg-kde-tools,
+               qtbase5-dev              
+Standards-Version: 3.9.5
+Homepage: http://www.kde.org/
+Vcs-Browser: https://bazaar.launchpad.net/~kubuntu-packagers/kubuntu-packaging/plasma-workspace-wallpapers
+Vcs-Bzr: https://code.launchpad.net/~kubuntu-packagers/kubuntu-packaging/plasma-workspace-wallpapers
+
+Package: plasma-workspace-wallpapers
+Architecture: any
+Depends: ${misc:Depends}
+Description: Wallpapers for Plasma 5
+ Wallpapers for integrated use with the Plasma workspace.
