@@ -1,7 +1,7 @@
 Source: plasma-workspace-wallpapers
 Section: kde
 Priority: extra
-Maintainer: Kubuntu Developers <kubuntu-devel@ubuntu.com>
+Maintainer: Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
 Build-Depends: cmake,
                debhelper (>= 9),
                extra-cmake-modules,
@@ -9,8 +9,8 @@ Build-Depends: cmake,
                qtbase5-dev              
 Standards-Version: 3.9.5
 Homepage: http://www.kde.org/
-Vcs-Browser: https://bazaar.launchpad.net/~kubuntu-packagers/kubuntu-packaging/plasma-workspace-wallpapers
-Vcs-Bzr: https://code.launchpad.net/~kubuntu-packagers/kubuntu-packaging/plasma-workspace-wallpapers
+Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-kde/plasma/plasma-workspace-wallpapers.git
+Vcs-Git: git://anonscm.debian.org/pkg-kde/plasma/plasma-workspace-wallpapers.git
 
 Package: plasma-workspace-wallpapers
 Architecture: any
