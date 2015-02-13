@@ -3,11 +3,11 @@ Section: kde
 Priority: extra
 Maintainer: Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
 Uploaders: Maximiliano Curia <maxy@debian.org>
-Build-Depends: cmake,
+Build-Depends: cmake (>= 2.8.12),
                debhelper (>= 9),
-               extra-cmake-modules,
-               pkg-kde-tools,
-               qtbase5-dev              
+               extra-cmake-modules (>= 0.0.9),
+               pkg-kde-tools (>= 0.15.16),
+               qtbase5-dev
 Standards-Version: 3.9.5
 Homepage: http://www.kde.org/
 Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-kde/plasma/plasma-workspace-wallpapers.git
