@@ -1,4 +1,4 @@
-plasma-workspace-wallpapers (4:5.2.0-1~) UNRELEASED; urgency=medium
+plasma-workspace-wallpapers (4:5.2.0-1) experimental; urgency=medium
 
   * Prepare initial Debian release.
   * Add myself as Uploader.
@@ -6,7 +6,7 @@ plasma-workspace-wallpapers (4:5.2.0-1~) UNRELEASED; urgency=medium
     follow cmake.
   * Bump Standards-Version to 3.9.6, no changes needed.
 
- -- Maximiliano Curia <maxy@debian.org>  Fri, 13 Feb 2015 11:12:21 +0100
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 13 Feb 2015 11:24:59 +0100
 
 plasma-workspace-wallpapers (4:5.2.0-0ubuntu1) vivid; urgency=medium
 
