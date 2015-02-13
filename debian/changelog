@@ -28,14 +28,6 @@ plasma-workspace-wallpapers (4:5.1.1-0ubuntu1) vivid; urgency=medium
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Mon, 10 Nov 2014 19:53:44 +0100
 
-plasma-workspace-wallpapers (4:5.1.0.1-0ubuntu1) UNRELEASED; urgency=medium
-
-  * New upstream beta release
-  * New upstream release
-  * New upstream release with fixed tar
-
- -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 14 Oct 2014 13:51:27 +0200
-
 plasma-workspace-wallpapers (4:5.0.2-0ubuntu1) utopic; urgency=medium
 
   * New upstream release
