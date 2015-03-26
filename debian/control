@@ -6,7 +6,7 @@ Build-Depends: cmake,
                debhelper (>= 9),
                extra-cmake-modules,
                pkg-kde-tools,
-               qtbase5-dev              
+               qtbase5-dev
 Standards-Version: 3.9.5
 Homepage: http://www.kde.org/
 Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-kde/plasma/plasma-workspace-wallpapers.git
