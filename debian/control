@@ -14,7 +14,7 @@ Vcs-Browser: http://anonscm.debian.org/cgit/pkg-kde/plasma/plasma-workspace-wall
 Vcs-Git: git://anonscm.debian.org/pkg-kde/plasma/plasma-workspace-wallpapers.git
 
 Package: plasma-workspace-wallpapers
-Architecture: any
+Architecture: all
 Depends: ${misc:Depends}
 Description: Wallpapers for Plasma 5
  Wallpapers for integrated use with the Plasma workspace.
