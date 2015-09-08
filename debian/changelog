@@ -1,8 +1,8 @@
-plasma-workspace-wallpapers (4:5.4.1-0ubuntu1) UNRELEASED; urgency=medium
+plasma-workspace-wallpapers (4:5.4.1-0ubuntu1) wily; urgency=medium
 
   * new upstream release
 
- -- Jonathan Riddell <jriddell@ubuntu.com>  Thu, 03 Sep 2015 13:52:42 +0100
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 08 Sep 2015 10:25:59 +0100
 
 plasma-workspace-wallpapers (4:5.4.0-0ubuntu1) wily; urgency=medium
 
