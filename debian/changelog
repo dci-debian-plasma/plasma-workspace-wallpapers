@@ -1,8 +1,9 @@
-plasma-workspace-wallpapers (4:5.5.0-1~) UNRELEASED; urgency=medium
+plasma-workspace-wallpapers (4:5.5.1-1~) UNRELEASED; urgency=medium
 
   * New upstream release (5.5.0).
+  * New upstream release (5.5.1).
 
- -- Maximiliano Curia <maxy@debian.org>  Thu, 10 Dec 2015 13:55:56 +0100
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 15 Dec 2015 17:10:46 +0100
 
 plasma-workspace-wallpapers (4:5.4.3-1) unstable; urgency=medium
 
