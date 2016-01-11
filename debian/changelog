@@ -5,7 +5,10 @@ plasma-workspace-wallpapers (4:5.5.3-0ubuntu1) UNRELEASED; urgency=medium
 
   [ Clive Johnston ]
   * new upstream release
-  * New upstream release
+
+  [ Philip Muškovac ]
+  * pĺasma-workspace-wallpapers breaks/replaces kde-wallpapers which is
+    obsolete as Autumn was moved
 
  -- Clive Johnston <clivejo@aol.com>  Thu, 07 Jan 2016 18:04:42 +0000
 
