@@ -12,6 +12,12 @@ plasma-workspace-wallpapers (4:5.5.3-0ubuntu1) UNRELEASED; urgency=medium
 
  -- Clive Johnston <clivejo@aol.com>  Thu, 07 Jan 2016 18:04:42 +0000
 
+plasma-workspace-wallpapers (4:5.4.3-1) unstable; urgency=medium
+
+  * New upstream release (5.4.3).
+
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 01 Dec 2015 11:45:38 +0100
+
 plasma-workspace-wallpapers (4:5.4.3-0ubuntu1) xenial; urgency=medium
 
   [ Scarlett Clark ]
@@ -22,6 +28,12 @@ plasma-workspace-wallpapers (4:5.4.3-0ubuntu1) xenial; urgency=medium
   * New upstream bugfix release (LP: #1518598)
 
  -- Philip Muškovac <yofel@kubuntu.org>  Sun, 22 Nov 2015 16:49:18 +0100
+
+plasma-workspace-wallpapers (4:5.4.2-1) unstable; urgency=medium
+
+  * New upstream release (5.4.2).
+
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 06 Oct 2015 07:51:50 +0200
 
 plasma-workspace-wallpapers (4:5.4.2-0ubuntu1) wily; urgency=medium
 
@@ -34,6 +46,18 @@ plasma-workspace-wallpapers (4:5.4.1-0ubuntu1) wily; urgency=medium
   * new upstream release
 
  -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 08 Sep 2015 10:25:59 +0100
+
+plasma-workspace-wallpapers (4:5.4.0-1) unstable; urgency=medium
+
+  [ Pino Toscano ]
+  * Make the plasma-workspace-wallpapers binary as arch:all, as it contains
+    only data.
+
+  [ Maximiliano Curia ]
+  * New upstream release (5.3.95).
+  * New upstream release (5.4.0).
+
+ -- Maximiliano Curia <maxy@debian.org>  Thu, 03 Sep 2015 18:52:59 +0200
 
 plasma-workspace-wallpapers (4:5.4.0-0ubuntu1) wily; urgency=medium
 
@@ -83,11 +107,11 @@ plasma-workspace-wallpapers (4:5.2.1-0ubuntu1) vivid; urgency=medium
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Mon, 23 Feb 2015 14:46:52 -0800
 
-plasma-workspace-wallpapers (4:5.3.0-1~) UNRELEASED; urgency=medium
+plasma-workspace-wallpapers (4:5.3.0-1) unstable; urgency=medium
 
   * New upstream release (5.3.0).
 
- -- Maximiliano Curia <maxy@debian.org>  Tue, 12 May 2015 20:03:43 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 30 Jun 2015 11:10:52 +0200
 
 plasma-workspace-wallpapers (4:5.2.0-1) experimental; urgency=medium
 
