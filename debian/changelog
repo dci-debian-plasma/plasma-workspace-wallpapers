@@ -1,3 +1,9 @@
+plasma-workspace-wallpapers (4:5.5.5-0ubuntu1) UNRELEASED; urgency=medium
+
+  * New upstream release
+
+ -- Clive Johnston <clivejo@aol.com>  Tue, 08 Mar 2016 23:00:18 +0000
+
 plasma-workspace-wallpapers (4:5.5.4-0ubuntu1) xenial; urgency=medium
 
   [ Scarlett Clark ]
