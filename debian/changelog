@@ -1,17 +1,18 @@
-plasma-workspace-wallpapers (4:5.6.3-1~1.gbpefcead) UNRELEASED; urgency=medium
+plasma-workspace-wallpapers (4:5.6.3-1~2.gbp6ee4d3) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @efcead1772e4259549b58455b2246a6a518e45ea **
+  ** SNAPSHOT build @6ee4d3275f6b23e8dd48516678e170fee8da9f7c **
 
   [ Maximiliano Curia ]
   ** SNAPSHOT build @88a08cd78b8d01dcf1c794afc2acf27ca939bdd8 **
   * New upstream release (5.5.5).
   * Add upstream metadata (DEP-12)
   * debian/control: Update Vcs-Browser and Vcs-Git fields
+  * UNRELEASED
 
   [ Automatic packaging ]
   * Bump Standards-Version to 3.9.8
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Tue, 19 Apr 2016 18:22:20 +0200
+ -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Sat, 30 Apr 2016 20:03:50 +0200
 
 plasma-workspace-wallpapers (4:5.5.4-1) experimental; urgency=medium
 
