@@ -1,3 +1,11 @@
+plasma-workspace-wallpapers (4:5.6.4-1~1.gbp543712) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @54371226d706fad08efe47e0c35aa961f5be7a83 **
+
+  * UNRELEASED
+
+ -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Wed, 11 May 2016 00:21:29 +0200
+
 plasma-workspace-wallpapers (4:5.6.3-1) experimental; urgency=medium
 
   [ Maximiliano Curia ]
