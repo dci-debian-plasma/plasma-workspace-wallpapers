@@ -1,3 +1,11 @@
+plasma-workspace-wallpapers (4:5.7.2-1~1.gbpabf1bd) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @abf1bd26bd6b257820d4cb03643235f7fd2642be **
+
+  * UNRELEASED
+
+ -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Tue, 19 Jul 2016 18:21:12 +0200
+
 plasma-workspace-wallpapers (4:5.7.0-1) unstable; urgency=medium
 
   * New uptream release.
