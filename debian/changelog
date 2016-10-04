@@ -1,10 +1,11 @@
-plasma-workspace-wallpapers (4:5.7.5-1~1.gbp26fa41) UNRELEASED; urgency=medium
+plasma-workspace-wallpapers (4:5.8.0-1~1.gbpfaa2fc) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @26fa41b5daaed239be31e0e977418c8ba305e148 **
+  ** SNAPSHOT build @faa2fc9e3b9b850b2ff56ad5da4bb004ffff1029 **
 
   * UNRELEASED
+  * UNRELEASED
 
- -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Tue, 13 Sep 2016 18:21:36 +0200
+ -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Tue, 04 Oct 2016 13:43:55 +0200
 
 plasma-workspace-wallpapers (4:5.7.4-1) unstable; urgency=medium
 
