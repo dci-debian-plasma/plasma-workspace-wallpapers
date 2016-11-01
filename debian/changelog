@@ -1,3 +1,11 @@
+plasma-workspace-wallpapers (4:5.8.3-1~1.gbp75c313) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @75c313377466328291c31512b870284c61050832 **
+
+  * UNRELEASED
+
+ -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Tue, 01 Nov 2016 17:21:31 +0100
+
 plasma-workspace-wallpapers (4:5.8.2-1) unstable; urgency=medium
 
   * New upstream release (5.8.2)
